@@ -9,7 +9,7 @@ link to estimate with python (with some limitations) what excel sample achieved 
 
 
 ----
-#Overview
+*Overview
 The repository provides a Python implementation of regression with ARMA errors for time series forecasting.
 It includes a Jupyter Notebook that walks through the steps of the analysis.
 #Key Steps
