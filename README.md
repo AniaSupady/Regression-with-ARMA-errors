@@ -1,4 +1,4 @@
-# Regression-with-ARMA-errors
+# Regression with ARMA errors, by Ania Supady
 Estimating Linear Model to Forecast Simulated Credit Losses
 
 ******************
